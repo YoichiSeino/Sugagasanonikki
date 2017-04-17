@@ -5,16 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "本居宣長旧宅",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -28,16 +19,7 @@
       "type": "Feature",
       "properties": {
         "name": "市場庄町",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -51,16 +33,7 @@
       "type": "Feature",
       "properties": {
         "name": "三渡",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -74,16 +47,7 @@
       "type": "Feature",
       "properties": {
         "name": "津屋庄",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -97,16 +61,7 @@
       "type": "Feature",
       "properties": {
         "name": "天花寺廃寺",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -120,16 +75,7 @@
       "type": "Feature",
       "properties": {
         "name": "小川神社",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -143,16 +89,7 @@
       "type": "Feature",
       "properties": {
         "name": "都川",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -166,16 +103,7 @@
       "type": "Feature",
       "properties": {
         "name": "都の里",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -189,16 +117,7 @@
       "type": "Feature",
       "properties": {
         "name": "八太という駅",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -212,16 +131,7 @@
       "type": "Feature",
       "properties": {
         "name": "八太川",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -235,16 +145,7 @@
       "type": "Feature",
       "properties": {
         "name": "田尻村",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -258,16 +159,7 @@
       "type": "Feature",
       "properties": {
         "name": "大仰里",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -281,16 +173,7 @@
       "type": "Feature",
       "properties": {
         "name": "谷戸里",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -304,16 +187,7 @@
       "type": "Feature",
       "properties": {
         "name": "大仰川",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -327,16 +201,7 @@
       "type": "Feature",
       "properties": {
         "name": "小倭の二本木",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -350,16 +215,7 @@
       "type": "Feature",
       "properties": {
         "name": "垣内",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -373,16 +229,7 @@
       "type": "Feature",
       "properties": {
         "name": "手向（峠？）",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
@@ -396,16 +243,7 @@
       "type": "Feature",
       "properties": {
         "name": "伊勢地",
-        "_markerType": "Icon",
-        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
-        "_iconSize": [
-          20,
-          20
-        ],
-        "_iconAnchor": [
-          10,
-          10
-        ]
+        "date": "1772-03-05"
       },
       "geometry": {
         "type": "Point",
