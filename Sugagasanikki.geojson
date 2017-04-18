@@ -242,9 +242,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "伊勢地",
         "date": "1772-03-05"
       },
